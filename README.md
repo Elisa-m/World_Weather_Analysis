@@ -33,5 +33,12 @@ Here's a screenshot of the marker layer map from the python model:
 ![](Vacation_Search/WeatherPy_vacation_map.png)
 
 ## Deliverable 3: Create a Travel Itinerary Map
+The model of deliverable 3 can be found under the Vacation_Itinerary folder within this github repository. Here are the files under the folder: 
+- Vacation_Itinerary.ipynb: python model that creates a route between four cities and creates a marker layer map with a pop-up marker for each of the four cities
 
+Here's a screenshot of the route between four cities: 
+![](Vacation_Itinerary/WeatherPy_travel_map.png)
+
+Here's a screenshot of the marker layer map: 
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
