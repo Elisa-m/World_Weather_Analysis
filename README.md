@@ -25,7 +25,12 @@ Here's a screenshot of the first few rows of the updated weather data:
 ![](Weather_Database/DataBase.png)
 
 ## Deliverable 2: Create a Customer Travel Destinations Map
+The model of deliverable 2 can be found under the Vacation_Search folder within this github repository. Here are the files under the folder: 
+- Vacation_Search.ipynb: python model that prompts user to enter minimum and maximum temperature preferences, searches for hotels based on user temperature preferences and displays marker layer map with qualifying hotels
+- WeatherPy_vacation.csv: csv file with hotels based on user's temperature preferences
 
+Here's a screenshot of the marker layer map from the python model: 
+![](Vacation_Search/WeatherPy_vacation_map.png)
 
 ## Deliverable 3: Create a Travel Itinerary Map
 
