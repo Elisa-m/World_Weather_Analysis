@@ -26,6 +26,7 @@ Here's a screenshot of the first few rows of the updated weather data:
 
 ## Deliverable 2: Create a Customer Travel Destinations Map
 
+
 ## Deliverable 3: Create a Travel Itinerary Map
 
 
