@@ -21,7 +21,7 @@ The script and output of deliverable 1 can be found under the Weather_Database f
 - Weather_Database.ipynb: python script with the API calls and data retrieval 
 - WeatherPy_Database.csv: output of the python script with the updated weather data 
 
-Here's a screenshot of the first few rows of WeatherPy_Database.csv:
+Here's a screenshot of the first few rows of the updated weather data:
 ![](Weather_Database/DataBase.png)
 
 ## Deliverable 2: Create a Customer Travel Destinations Map
