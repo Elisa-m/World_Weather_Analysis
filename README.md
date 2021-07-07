@@ -17,6 +17,12 @@ Use input statements to retrieve customer weather preferences, then use those pr
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
 ## Deliverable 1: Retrieve Weather Data
+The script and output of deliverable 1 can be found under the Weather_Database folder within this github repository. Here are the files under the folder: 
+- Weather_Database.ipynb: python script with the API calls and data retrieval 
+- WeatherPy_Database.csv: output of the python script with the updated weather data 
+
+Here's a screenshot of the first few rows of WeatherPy_Database.csv:
+![](Weather_Database/DataBase.png)
 
 ## Deliverable 2: Create a Customer Travel Destinations Map
 
